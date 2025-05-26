@@ -13,3 +13,16 @@ If you want to track your own amount of satoshis, aka sats, update the values in
 Inspiration for this file comes from being blocked from pricing sources (e.g., certain websites) while at work, so I keep this spreadsheet open. This is my workaround. I'm sure there are others. Additionally, the "Sats per $" section was inspired by and validated with [timechainstats.com](https://timechainstats.com/) (which I cannot access from work).
 
 Any feedback is welcomed and appreciated!
+
+
+
+# Tracking your bitcoin purchases - Copy - Copy.xlsx
+This file does not require that you enable the "Stock Data" in Microsoft Excel. This is a simple file to track the date, exchange, purchase amount (fiat and bitcoin) of your bitcoin purchases.
+
+Update the values in columns A through D of your transactions; columns E through G will update automatically (hopefully):
+![image](https://github.com/user-attachments/assets/d16aad2d-45f7-4f3d-9e83-199fbc648a6d)
+
+The summary worksheet will show your totals. I included columns to list up to three exchanges if you want to track via exchange as well:
+![image](https://github.com/user-attachments/assets/4d5294b4-64dd-4dfb-919b-b43685cea893)
+
+Any feedback is welcomed and appreciated!
